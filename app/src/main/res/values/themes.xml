@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.Brewkery" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#FDFAF7</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
