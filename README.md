@@ -4,6 +4,9 @@ A native Android coffee & bakery ordering application in Kotlin built for the **
 
 The app is powered by the Brewkery REST API, providing a seamless four-screen ordering flow with dynamic customizations, live cart calculations, store announcement / order tracking status, and clean MVVM architecture.
 
+[![Download Debug APK](https://img.shields.io/badge/Download-Debug%20APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/7492958507/Brewkery/releases/download/v1.0.0/Brewkery-debug.apk)
+[![GitHub Release](https://img.shields.io/badge/Release-v1.0.0-blue?style=for-the-badge&logo=github)](https://github.com/7492958507/Brewkery/releases/tag/v1.0.0)
+
 ---
 
 ## 📱 Features & Screen Flow
